@@ -1,0 +1,19 @@
+{
+    "name": "ilem/validator",
+    "description": "a simple php validator class",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ilem\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilem",
+            "email": "ilemsroom@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
