@@ -1,5 +1,5 @@
 {
-    "name": "ILemsroom/simple-php-oop-validator",
+    "name": "ilem/validator",
     "description": "a simple php validator class",
     "type": "library",
     "license": "MIT",
